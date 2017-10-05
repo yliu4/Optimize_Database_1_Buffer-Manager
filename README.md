@@ -1,8 +1,7 @@
 # Optimize Database System --- Implementing a Better Buffer Manager for SimpleDB Database System
 
 ## About SimpleDB System
-This semester we will work with the SimpleDB database system - a multi-user transactional
-database server written in Java, which interacts with Java client programs via JDBC. SimpleDB is
+SimpleDB database system - a multi-user transactional database server written in Java, which interacts with Java client programs via JDBC. SimpleDB is
 a stripped-down open-source system developed by E. Sciore for pedagogical use. We have
 chosen this as foundation for the CS4432 projects to give you a chance to gain experience with
 database systems internals – while attempting to avoid the inherent complexity (aka steep
