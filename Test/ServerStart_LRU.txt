@@ -1,0 +1,1028 @@
+new transaction: 1
+recovering existing database
+-------------------Pin new file: tblcat.tbl--------------------
+                   <BEFORE>                   
+Free list:7,6,5,4,3,2,1,0,
+
+Hash table:
+
+Buffers:
+(0),lastAccessTime: 1443291103839,[],NotPinned
+(1),lastAccessTime: 1443291103839,[],NotPinned
+(2),lastAccessTime: 1443291103839,[],NotPinned
+(3),lastAccessTime: 1443291103839,[],NotPinned
+(4),lastAccessTime: 1443291103839,[],NotPinned
+(5),lastAccessTime: 1443291103839,[],NotPinned
+(6),lastAccessTime: 1443291103839,[],NotPinned
+(7),lastAccessTime: 1443291103839,[],NotPinned
+
+
+                   <AFTER>                   
+Free list:7,6,5,4,3,2,1,
+
+Hash table:
+Block: 1806850661 Buffer id is 0
+
+Buffers:
+(0),lastAccessTime: 1443291103839,[file tblcat.tbl, block 0],Pinned
+(1),lastAccessTime: 1443291103839,[],NotPinned
+(2),lastAccessTime: 1443291103839,[],NotPinned
+(3),lastAccessTime: 1443291103839,[],NotPinned
+(4),lastAccessTime: 1443291103839,[],NotPinned
+(5),lastAccessTime: 1443291103839,[],NotPinned
+(6),lastAccessTime: 1443291103839,[],NotPinned
+(7),lastAccessTime: 1443291103839,[],NotPinned
+
+
+-------------------Unpin buffer: (0),lastAccessTime: 1443291103839,[file tblcat.tbl, block 0],Pinned--------------------
+                   <BEFORE>                   
+Free list:7,6,5,4,3,2,1,
+
+Hash table:
+Block: 1806850661 Buffer id is 0
+
+Buffers:
+(0),lastAccessTime: 1443291103839,[file tblcat.tbl, block 0],Pinned
+(1),lastAccessTime: 1443291103839,[],NotPinned
+(2),lastAccessTime: 1443291103839,[],NotPinned
+(3),lastAccessTime: 1443291103839,[],NotPinned
+(4),lastAccessTime: 1443291103839,[],NotPinned
+(5),lastAccessTime: 1443291103839,[],NotPinned
+(6),lastAccessTime: 1443291103839,[],NotPinned
+(7),lastAccessTime: 1443291103839,[],NotPinned
+
+
+                   <AFTER>                   
+Free list:7,6,5,4,3,2,1,
+
+Hash table:
+Block: 1806850661 Buffer id is 0
+
+Buffers:
+(0),lastAccessTime: 1443291103839,[file tblcat.tbl, block 0],NotPinned
+(1),lastAccessTime: 1443291103839,[],NotPinned
+(2),lastAccessTime: 1443291103839,[],NotPinned
+(3),lastAccessTime: 1443291103839,[],NotPinned
+(4),lastAccessTime: 1443291103839,[],NotPinned
+(5),lastAccessTime: 1443291103839,[],NotPinned
+(6),lastAccessTime: 1443291103839,[],NotPinned
+(7),lastAccessTime: 1443291103839,[],NotPinned
+
+
+-------------------Pin block: [file tblcat.tbl, block 0]--------------------
+                   <BEFORE>                   
+Free list:7,6,5,4,3,2,1,
+
+Hash table:
+Block: 1806850661 Buffer id is 0
+
+Buffers:
+(0),lastAccessTime: 1443291103839,[file tblcat.tbl, block 0],NotPinned
+(1),lastAccessTime: 1443291103839,[],NotPinned
+(2),lastAccessTime: 1443291103839,[],NotPinned
+(3),lastAccessTime: 1443291103839,[],NotPinned
+(4),lastAccessTime: 1443291103839,[],NotPinned
+(5),lastAccessTime: 1443291103839,[],NotPinned
+(6),lastAccessTime: 1443291103839,[],NotPinned
+(7),lastAccessTime: 1443291103839,[],NotPinned
+
+
+                   <AFTER>                   
+Free list:7,6,5,4,3,2,1,
+
+Hash table:
+Block: 1806850661 Buffer id is 0
+
+Buffers:
+(0),lastAccessTime: 1443291103839,[file tblcat.tbl, block 0],Pinned
+(1),lastAccessTime: 1443291103839,[],NotPinned
+(2),lastAccessTime: 1443291103839,[],NotPinned
+(3),lastAccessTime: 1443291103839,[],NotPinned
+(4),lastAccessTime: 1443291103839,[],NotPinned
+(5),lastAccessTime: 1443291103839,[],NotPinned
+(6),lastAccessTime: 1443291103839,[],NotPinned
+(7),lastAccessTime: 1443291103839,[],NotPinned
+
+
+-------------------Unpin buffer: (0),lastAccessTime: 1443291103839,[file tblcat.tbl, block 0],Pinned--------------------
+                   <BEFORE>                   
+Free list:7,6,5,4,3,2,1,
+
+Hash table:
+Block: 1806850661 Buffer id is 0
+
+Buffers:
+(0),lastAccessTime: 1443291103839,[file tblcat.tbl, block 0],Pinned
+(1),lastAccessTime: 1443291103839,[],NotPinned
+(2),lastAccessTime: 1443291103839,[],NotPinned
+(3),lastAccessTime: 1443291103839,[],NotPinned
+(4),lastAccessTime: 1443291103839,[],NotPinned
+(5),lastAccessTime: 1443291103839,[],NotPinned
+(6),lastAccessTime: 1443291103839,[],NotPinned
+(7),lastAccessTime: 1443291103839,[],NotPinned
+
+
+                   <AFTER>                   
+Free list:7,6,5,4,3,2,1,
+
+Hash table:
+Block: 1806850661 Buffer id is 0
+
+Buffers:
+(0),lastAccessTime: 1443291103839,[file tblcat.tbl, block 0],NotPinned
+(1),lastAccessTime: 1443291103839,[],NotPinned
+(2),lastAccessTime: 1443291103839,[],NotPinned
+(3),lastAccessTime: 1443291103839,[],NotPinned
+(4),lastAccessTime: 1443291103839,[],NotPinned
+(5),lastAccessTime: 1443291103839,[],NotPinned
+(6),lastAccessTime: 1443291103839,[],NotPinned
+(7),lastAccessTime: 1443291103839,[],NotPinned
+
+
+-------------------Pin new file: fldcat.tbl--------------------
+                   <BEFORE>                   
+Free list:7,6,5,4,3,2,1,
+
+Hash table:
+Block: 1806850661 Buffer id is 0
+
+Buffers:
+(0),lastAccessTime: 1443291103839,[file tblcat.tbl, block 0],NotPinned
+(1),lastAccessTime: 1443291103839,[],NotPinned
+(2),lastAccessTime: 1443291103839,[],NotPinned
+(3),lastAccessTime: 1443291103839,[],NotPinned
+(4),lastAccessTime: 1443291103839,[],NotPinned
+(5),lastAccessTime: 1443291103839,[],NotPinned
+(6),lastAccessTime: 1443291103839,[],NotPinned
+(7),lastAccessTime: 1443291103839,[],NotPinned
+
+
+                   <AFTER>                   
+Free list:7,6,5,4,3,2,
+
+Hash table:
+Block: -1527684667 Buffer id is 1
+Block: 1806850661 Buffer id is 0
+
+Buffers:
+(0),lastAccessTime: 1443291103839,[file tblcat.tbl, block 0],NotPinned
+(1),lastAccessTime: 1443291103855,[file fldcat.tbl, block 0],Pinned
+(2),lastAccessTime: 1443291103839,[],NotPinned
+(3),lastAccessTime: 1443291103839,[],NotPinned
+(4),lastAccessTime: 1443291103839,[],NotPinned
+(5),lastAccessTime: 1443291103839,[],NotPinned
+(6),lastAccessTime: 1443291103839,[],NotPinned
+(7),lastAccessTime: 1443291103839,[],NotPinned
+
+
+-------------------Unpin buffer: (1),lastAccessTime: 1443291103855,[file fldcat.tbl, block 0],Pinned--------------------
+                   <BEFORE>                   
+Free list:7,6,5,4,3,2,
+
+Hash table:
+Block: -1527684667 Buffer id is 1
+Block: 1806850661 Buffer id is 0
+
+Buffers:
+(0),lastAccessTime: 1443291103839,[file tblcat.tbl, block 0],NotPinned
+(1),lastAccessTime: 1443291103855,[file fldcat.tbl, block 0],Pinned
+(2),lastAccessTime: 1443291103839,[],NotPinned
+(3),lastAccessTime: 1443291103839,[],NotPinned
+(4),lastAccessTime: 1443291103839,[],NotPinned
+(5),lastAccessTime: 1443291103839,[],NotPinned
+(6),lastAccessTime: 1443291103839,[],NotPinned
+(7),lastAccessTime: 1443291103839,[],NotPinned
+
+
+                   <AFTER>                   
+Free list:7,6,5,4,3,2,
+
+Hash table:
+Block: -1527684667 Buffer id is 1
+Block: 1806850661 Buffer id is 0
+
+Buffers:
+(0),lastAccessTime: 1443291103839,[file tblcat.tbl, block 0],NotPinned
+(1),lastAccessTime: 1443291103855,[file fldcat.tbl, block 0],NotPinned
+(2),lastAccessTime: 1443291103839,[],NotPinned
+(3),lastAccessTime: 1443291103839,[],NotPinned
+(4),lastAccessTime: 1443291103839,[],NotPinned
+(5),lastAccessTime: 1443291103839,[],NotPinned
+(6),lastAccessTime: 1443291103839,[],NotPinned
+(7),lastAccessTime: 1443291103839,[],NotPinned
+
+
+-------------------Pin block: [file fldcat.tbl, block 0]--------------------
+                   <BEFORE>                   
+Free list:7,6,5,4,3,2,
+
+Hash table:
+Block: -1527684667 Buffer id is 1
+Block: 1806850661 Buffer id is 0
+
+Buffers:
+(0),lastAccessTime: 1443291103839,[file tblcat.tbl, block 0],NotPinned
+(1),lastAccessTime: 1443291103855,[file fldcat.tbl, block 0],NotPinned
+(2),lastAccessTime: 1443291103839,[],NotPinned
+(3),lastAccessTime: 1443291103839,[],NotPinned
+(4),lastAccessTime: 1443291103839,[],NotPinned
+(5),lastAccessTime: 1443291103839,[],NotPinned
+(6),lastAccessTime: 1443291103839,[],NotPinned
+(7),lastAccessTime: 1443291103839,[],NotPinned
+
+
+                   <AFTER>                   
+Free list:7,6,5,4,3,2,
+
+Hash table:
+Block: -1527684667 Buffer id is 1
+Block: 1806850661 Buffer id is 0
+
+Buffers:
+(0),lastAccessTime: 1443291103839,[file tblcat.tbl, block 0],NotPinned
+(1),lastAccessTime: 1443291103855,[file fldcat.tbl, block 0],Pinned
+(2),lastAccessTime: 1443291103839,[],NotPinned
+(3),lastAccessTime: 1443291103839,[],NotPinned
+(4),lastAccessTime: 1443291103839,[],NotPinned
+(5),lastAccessTime: 1443291103839,[],NotPinned
+(6),lastAccessTime: 1443291103839,[],NotPinned
+(7),lastAccessTime: 1443291103839,[],NotPinned
+
+
+-------------------Unpin buffer: (1),lastAccessTime: 1443291103855,[file fldcat.tbl, block 0],Pinned--------------------
+                   <BEFORE>                   
+Free list:7,6,5,4,3,2,
+
+Hash table:
+Block: -1527684667 Buffer id is 1
+Block: 1806850661 Buffer id is 0
+
+Buffers:
+(0),lastAccessTime: 1443291103839,[file tblcat.tbl, block 0],NotPinned
+(1),lastAccessTime: 1443291103855,[file fldcat.tbl, block 0],Pinned
+(2),lastAccessTime: 1443291103839,[],NotPinned
+(3),lastAccessTime: 1443291103839,[],NotPinned
+(4),lastAccessTime: 1443291103839,[],NotPinned
+(5),lastAccessTime: 1443291103839,[],NotPinned
+(6),lastAccessTime: 1443291103839,[],NotPinned
+(7),lastAccessTime: 1443291103839,[],NotPinned
+
+
+                   <AFTER>                   
+Free list:7,6,5,4,3,2,
+
+Hash table:
+Block: -1527684667 Buffer id is 1
+Block: 1806850661 Buffer id is 0
+
+Buffers:
+(0),lastAccessTime: 1443291103839,[file tblcat.tbl, block 0],NotPinned
+(1),lastAccessTime: 1443291103855,[file fldcat.tbl, block 0],NotPinned
+(2),lastAccessTime: 1443291103839,[],NotPinned
+(3),lastAccessTime: 1443291103839,[],NotPinned
+(4),lastAccessTime: 1443291103839,[],NotPinned
+(5),lastAccessTime: 1443291103839,[],NotPinned
+(6),lastAccessTime: 1443291103839,[],NotPinned
+(7),lastAccessTime: 1443291103839,[],NotPinned
+
+
+-------------------Pin block: [file tblcat.tbl, block 0]--------------------
+                   <BEFORE>                   
+Free list:7,6,5,4,3,2,
+
+Hash table:
+Block: -1527684667 Buffer id is 1
+Block: 1806850661 Buffer id is 0
+
+Buffers:
+(0),lastAccessTime: 1443291103839,[file tblcat.tbl, block 0],NotPinned
+(1),lastAccessTime: 1443291103855,[file fldcat.tbl, block 0],NotPinned
+(2),lastAccessTime: 1443291103839,[],NotPinned
+(3),lastAccessTime: 1443291103839,[],NotPinned
+(4),lastAccessTime: 1443291103839,[],NotPinned
+(5),lastAccessTime: 1443291103839,[],NotPinned
+(6),lastAccessTime: 1443291103839,[],NotPinned
+(7),lastAccessTime: 1443291103839,[],NotPinned
+
+
+                   <AFTER>                   
+Free list:7,6,5,4,3,2,
+
+Hash table:
+Block: -1527684667 Buffer id is 1
+Block: 1806850661 Buffer id is 0
+
+Buffers:
+(0),lastAccessTime: 1443291103855,[file tblcat.tbl, block 0],Pinned
+(1),lastAccessTime: 1443291103855,[file fldcat.tbl, block 0],NotPinned
+(2),lastAccessTime: 1443291103839,[],NotPinned
+(3),lastAccessTime: 1443291103839,[],NotPinned
+(4),lastAccessTime: 1443291103839,[],NotPinned
+(5),lastAccessTime: 1443291103839,[],NotPinned
+(6),lastAccessTime: 1443291103839,[],NotPinned
+(7),lastAccessTime: 1443291103839,[],NotPinned
+
+
+-------------------Unpin buffer: (0),lastAccessTime: 1443291103855,[file tblcat.tbl, block 0],Pinned--------------------
+                   <BEFORE>                   
+Free list:7,6,5,4,3,2,
+
+Hash table:
+Block: -1527684667 Buffer id is 1
+Block: 1806850661 Buffer id is 0
+
+Buffers:
+(0),lastAccessTime: 1443291103855,[file tblcat.tbl, block 0],Pinned
+(1),lastAccessTime: 1443291103855,[file fldcat.tbl, block 0],NotPinned
+(2),lastAccessTime: 1443291103839,[],NotPinned
+(3),lastAccessTime: 1443291103839,[],NotPinned
+(4),lastAccessTime: 1443291103839,[],NotPinned
+(5),lastAccessTime: 1443291103839,[],NotPinned
+(6),lastAccessTime: 1443291103839,[],NotPinned
+(7),lastAccessTime: 1443291103839,[],NotPinned
+
+
+                   <AFTER>                   
+Free list:7,6,5,4,3,2,
+
+Hash table:
+Block: -1527684667 Buffer id is 1
+Block: 1806850661 Buffer id is 0
+
+Buffers:
+(0),lastAccessTime: 1443291103855,[file tblcat.tbl, block 0],NotPinned
+(1),lastAccessTime: 1443291103855,[file fldcat.tbl, block 0],NotPinned
+(2),lastAccessTime: 1443291103839,[],NotPinned
+(3),lastAccessTime: 1443291103839,[],NotPinned
+(4),lastAccessTime: 1443291103839,[],NotPinned
+(5),lastAccessTime: 1443291103839,[],NotPinned
+(6),lastAccessTime: 1443291103839,[],NotPinned
+(7),lastAccessTime: 1443291103839,[],NotPinned
+
+
+-------------------Pin block: [file tblcat.tbl, block 0]--------------------
+                   <BEFORE>                   
+Free list:7,6,5,4,3,2,
+
+Hash table:
+Block: -1527684667 Buffer id is 1
+Block: 1806850661 Buffer id is 0
+
+Buffers:
+(0),lastAccessTime: 1443291103855,[file tblcat.tbl, block 0],NotPinned
+(1),lastAccessTime: 1443291103855,[file fldcat.tbl, block 0],NotPinned
+(2),lastAccessTime: 1443291103839,[],NotPinned
+(3),lastAccessTime: 1443291103839,[],NotPinned
+(4),lastAccessTime: 1443291103839,[],NotPinned
+(5),lastAccessTime: 1443291103839,[],NotPinned
+(6),lastAccessTime: 1443291103839,[],NotPinned
+(7),lastAccessTime: 1443291103839,[],NotPinned
+
+
+                   <AFTER>                   
+Free list:7,6,5,4,3,2,
+
+Hash table:
+Block: -1527684667 Buffer id is 1
+Block: 1806850661 Buffer id is 0
+
+Buffers:
+(0),lastAccessTime: 1443291103855,[file tblcat.tbl, block 0],Pinned
+(1),lastAccessTime: 1443291103855,[file fldcat.tbl, block 0],NotPinned
+(2),lastAccessTime: 1443291103839,[],NotPinned
+(3),lastAccessTime: 1443291103839,[],NotPinned
+(4),lastAccessTime: 1443291103839,[],NotPinned
+(5),lastAccessTime: 1443291103839,[],NotPinned
+(6),lastAccessTime: 1443291103839,[],NotPinned
+(7),lastAccessTime: 1443291103839,[],NotPinned
+
+
+-------------------Unpin buffer: (0),lastAccessTime: 1443291103855,[file tblcat.tbl, block 0],Pinned--------------------
+                   <BEFORE>                   
+Free list:7,6,5,4,3,2,
+
+Hash table:
+Block: -1527684667 Buffer id is 1
+Block: 1806850661 Buffer id is 0
+
+Buffers:
+(0),lastAccessTime: 1443291103855,[file tblcat.tbl, block 0],Pinned
+(1),lastAccessTime: 1443291103855,[file fldcat.tbl, block 0],NotPinned
+(2),lastAccessTime: 1443291103839,[],NotPinned
+(3),lastAccessTime: 1443291103839,[],NotPinned
+(4),lastAccessTime: 1443291103839,[],NotPinned
+(5),lastAccessTime: 1443291103839,[],NotPinned
+(6),lastAccessTime: 1443291103839,[],NotPinned
+(7),lastAccessTime: 1443291103839,[],NotPinned
+
+
+                   <AFTER>                   
+Free list:7,6,5,4,3,2,
+
+Hash table:
+Block: -1527684667 Buffer id is 1
+Block: 1806850661 Buffer id is 0
+
+Buffers:
+(0),lastAccessTime: 1443291103855,[file tblcat.tbl, block 0],NotPinned
+(1),lastAccessTime: 1443291103855,[file fldcat.tbl, block 0],NotPinned
+(2),lastAccessTime: 1443291103839,[],NotPinned
+(3),lastAccessTime: 1443291103839,[],NotPinned
+(4),lastAccessTime: 1443291103839,[],NotPinned
+(5),lastAccessTime: 1443291103839,[],NotPinned
+(6),lastAccessTime: 1443291103839,[],NotPinned
+(7),lastAccessTime: 1443291103839,[],NotPinned
+
+
+-------------------Pin block: [file fldcat.tbl, block 0]--------------------
+                   <BEFORE>                   
+Free list:7,6,5,4,3,2,
+
+Hash table:
+Block: -1527684667 Buffer id is 1
+Block: 1806850661 Buffer id is 0
+
+Buffers:
+(0),lastAccessTime: 1443291103855,[file tblcat.tbl, block 0],NotPinned
+(1),lastAccessTime: 1443291103855,[file fldcat.tbl, block 0],NotPinned
+(2),lastAccessTime: 1443291103839,[],NotPinned
+(3),lastAccessTime: 1443291103839,[],NotPinned
+(4),lastAccessTime: 1443291103839,[],NotPinned
+(5),lastAccessTime: 1443291103839,[],NotPinned
+(6),lastAccessTime: 1443291103839,[],NotPinned
+(7),lastAccessTime: 1443291103839,[],NotPinned
+
+
+                   <AFTER>                   
+Free list:7,6,5,4,3,2,
+
+Hash table:
+Block: -1527684667 Buffer id is 1
+Block: 1806850661 Buffer id is 0
+
+Buffers:
+(0),lastAccessTime: 1443291103855,[file tblcat.tbl, block 0],NotPinned
+(1),lastAccessTime: 1443291103855,[file fldcat.tbl, block 0],Pinned
+(2),lastAccessTime: 1443291103839,[],NotPinned
+(3),lastAccessTime: 1443291103839,[],NotPinned
+(4),lastAccessTime: 1443291103839,[],NotPinned
+(5),lastAccessTime: 1443291103839,[],NotPinned
+(6),lastAccessTime: 1443291103839,[],NotPinned
+(7),lastAccessTime: 1443291103839,[],NotPinned
+
+
+-------------------Unpin buffer: (1),lastAccessTime: 1443291103855,[file fldcat.tbl, block 0],Pinned--------------------
+                   <BEFORE>                   
+Free list:7,6,5,4,3,2,
+
+Hash table:
+Block: -1527684667 Buffer id is 1
+Block: 1806850661 Buffer id is 0
+
+Buffers:
+(0),lastAccessTime: 1443291103855,[file tblcat.tbl, block 0],NotPinned
+(1),lastAccessTime: 1443291103855,[file fldcat.tbl, block 0],Pinned
+(2),lastAccessTime: 1443291103839,[],NotPinned
+(3),lastAccessTime: 1443291103839,[],NotPinned
+(4),lastAccessTime: 1443291103839,[],NotPinned
+(5),lastAccessTime: 1443291103839,[],NotPinned
+(6),lastAccessTime: 1443291103839,[],NotPinned
+(7),lastAccessTime: 1443291103839,[],NotPinned
+
+
+                   <AFTER>                   
+Free list:7,6,5,4,3,2,
+
+Hash table:
+Block: -1527684667 Buffer id is 1
+Block: 1806850661 Buffer id is 0
+
+Buffers:
+(0),lastAccessTime: 1443291103855,[file tblcat.tbl, block 0],NotPinned
+(1),lastAccessTime: 1443291103855,[file fldcat.tbl, block 0],NotPinned
+(2),lastAccessTime: 1443291103839,[],NotPinned
+(3),lastAccessTime: 1443291103839,[],NotPinned
+(4),lastAccessTime: 1443291103839,[],NotPinned
+(5),lastAccessTime: 1443291103839,[],NotPinned
+(6),lastAccessTime: 1443291103839,[],NotPinned
+(7),lastAccessTime: 1443291103839,[],NotPinned
+
+
+transaction 1 committed
+database server ready
+******************************************************
+******************************************************
+new transaction: 1
+recovering existing database
+-------------------Pin new file: tblcat.tbl--------------------
+                   <BEFORE>                   
+Free list:7,6,5,4,3,2,1,0,
+
+Hash table:
+
+Buffers:
+(0),lastAccessTime: 1443291103839,[],NotPinned
+(1),lastAccessTime: 1443291103839,[],NotPinned
+(2),lastAccessTime: 1443291103839,[],NotPinned
+(3),lastAccessTime: 1443291103839,[],NotPinned
+(4),lastAccessTime: 1443291103839,[],NotPinned
+(5),lastAccessTime: 1443291103839,[],NotPinned
+(6),lastAccessTime: 1443291103839,[],NotPinned
+(7),lastAccessTime: 1443291103839,[],NotPinned
+
+
+                   <AFTER>                   
+Free list:7,6,5,4,3,2,1,
+
+Hash table:
+Block: 1806850661 Buffer id is 0
+
+Buffers:
+(0),lastAccessTime: 1443291103839,[file tblcat.tbl, block 0],Pinned
+(1),lastAccessTime: 1443291103839,[],NotPinned
+(2),lastAccessTime: 1443291103839,[],NotPinned
+(3),lastAccessTime: 1443291103839,[],NotPinned
+(4),lastAccessTime: 1443291103839,[],NotPinned
+(5),lastAccessTime: 1443291103839,[],NotPinned
+(6),lastAccessTime: 1443291103839,[],NotPinned
+(7),lastAccessTime: 1443291103839,[],NotPinned
+
+
+-------------------Unpin buffer: (0),lastAccessTime: 1443291103839,[file tblcat.tbl, block 0],Pinned--------------------
+                   <BEFORE>                   
+Free list:7,6,5,4,3,2,1,
+
+Hash table:
+Block: 1806850661 Buffer id is 0
+
+Buffers:
+(0),lastAccessTime: 1443291103839,[file tblcat.tbl, block 0],Pinned
+(1),lastAccessTime: 1443291103839,[],NotPinned
+(2),lastAccessTime: 1443291103839,[],NotPinned
+(3),lastAccessTime: 1443291103839,[],NotPinned
+(4),lastAccessTime: 1443291103839,[],NotPinned
+(5),lastAccessTime: 1443291103839,[],NotPinned
+(6),lastAccessTime: 1443291103839,[],NotPinned
+(7),lastAccessTime: 1443291103839,[],NotPinned
+
+
+                   <AFTER>                   
+Free list:7,6,5,4,3,2,1,
+
+Hash table:
+Block: 1806850661 Buffer id is 0
+
+Buffers:
+(0),lastAccessTime: 1443291103839,[file tblcat.tbl, block 0],NotPinned
+(1),lastAccessTime: 1443291103839,[],NotPinned
+(2),lastAccessTime: 1443291103839,[],NotPinned
+(3),lastAccessTime: 1443291103839,[],NotPinned
+(4),lastAccessTime: 1443291103839,[],NotPinned
+(5),lastAccessTime: 1443291103839,[],NotPinned
+(6),lastAccessTime: 1443291103839,[],NotPinned
+(7),lastAccessTime: 1443291103839,[],NotPinned
+
+
+-------------------Pin block: [file tblcat.tbl, block 0]--------------------
+                   <BEFORE>                   
+Free list:7,6,5,4,3,2,1,
+
+Hash table:
+Block: 1806850661 Buffer id is 0
+
+Buffers:
+(0),lastAccessTime: 1443291103839,[file tblcat.tbl, block 0],NotPinned
+(1),lastAccessTime: 1443291103839,[],NotPinned
+(2),lastAccessTime: 1443291103839,[],NotPinned
+(3),lastAccessTime: 1443291103839,[],NotPinned
+(4),lastAccessTime: 1443291103839,[],NotPinned
+(5),lastAccessTime: 1443291103839,[],NotPinned
+(6),lastAccessTime: 1443291103839,[],NotPinned
+(7),lastAccessTime: 1443291103839,[],NotPinned
+
+
+                   <AFTER>                   
+Free list:7,6,5,4,3,2,1,
+
+Hash table:
+Block: 1806850661 Buffer id is 0
+
+Buffers:
+(0),lastAccessTime: 1443291103839,[file tblcat.tbl, block 0],Pinned
+(1),lastAccessTime: 1443291103839,[],NotPinned
+(2),lastAccessTime: 1443291103839,[],NotPinned
+(3),lastAccessTime: 1443291103839,[],NotPinned
+(4),lastAccessTime: 1443291103839,[],NotPinned
+(5),lastAccessTime: 1443291103839,[],NotPinned
+(6),lastAccessTime: 1443291103839,[],NotPinned
+(7),lastAccessTime: 1443291103839,[],NotPinned
+
+
+-------------------Unpin buffer: (0),lastAccessTime: 1443291103839,[file tblcat.tbl, block 0],Pinned--------------------
+                   <BEFORE>                   
+Free list:7,6,5,4,3,2,1,
+
+Hash table:
+Block: 1806850661 Buffer id is 0
+
+Buffers:
+(0),lastAccessTime: 1443291103839,[file tblcat.tbl, block 0],Pinned
+(1),lastAccessTime: 1443291103839,[],NotPinned
+(2),lastAccessTime: 1443291103839,[],NotPinned
+(3),lastAccessTime: 1443291103839,[],NotPinned
+(4),lastAccessTime: 1443291103839,[],NotPinned
+(5),lastAccessTime: 1443291103839,[],NotPinned
+(6),lastAccessTime: 1443291103839,[],NotPinned
+(7),lastAccessTime: 1443291103839,[],NotPinned
+
+
+                   <AFTER>                   
+Free list:7,6,5,4,3,2,1,
+
+Hash table:
+Block: 1806850661 Buffer id is 0
+
+Buffers:
+(0),lastAccessTime: 1443291103839,[file tblcat.tbl, block 0],NotPinned
+(1),lastAccessTime: 1443291103839,[],NotPinned
+(2),lastAccessTime: 1443291103839,[],NotPinned
+(3),lastAccessTime: 1443291103839,[],NotPinned
+(4),lastAccessTime: 1443291103839,[],NotPinned
+(5),lastAccessTime: 1443291103839,[],NotPinned
+(6),lastAccessTime: 1443291103839,[],NotPinned
+(7),lastAccessTime: 1443291103839,[],NotPinned
+
+
+-------------------Pin new file: fldcat.tbl--------------------
+                   <BEFORE>                   
+Free list:7,6,5,4,3,2,1,
+
+Hash table:
+Block: 1806850661 Buffer id is 0
+
+Buffers:
+(0),lastAccessTime: 1443291103839,[file tblcat.tbl, block 0],NotPinned
+(1),lastAccessTime: 1443291103839,[],NotPinned
+(2),lastAccessTime: 1443291103839,[],NotPinned
+(3),lastAccessTime: 1443291103839,[],NotPinned
+(4),lastAccessTime: 1443291103839,[],NotPinned
+(5),lastAccessTime: 1443291103839,[],NotPinned
+(6),lastAccessTime: 1443291103839,[],NotPinned
+(7),lastAccessTime: 1443291103839,[],NotPinned
+
+
+                   <AFTER>                   
+Free list:7,6,5,4,3,2,
+
+Hash table:
+Block: -1527684667 Buffer id is 1
+Block: 1806850661 Buffer id is 0
+
+Buffers:
+(0),lastAccessTime: 1443291103839,[file tblcat.tbl, block 0],NotPinned
+(1),lastAccessTime: 1443291103855,[file fldcat.tbl, block 0],Pinned
+(2),lastAccessTime: 1443291103839,[],NotPinned
+(3),lastAccessTime: 1443291103839,[],NotPinned
+(4),lastAccessTime: 1443291103839,[],NotPinned
+(5),lastAccessTime: 1443291103839,[],NotPinned
+(6),lastAccessTime: 1443291103839,[],NotPinned
+(7),lastAccessTime: 1443291103839,[],NotPinned
+
+
+-------------------Unpin buffer: (1),lastAccessTime: 1443291103855,[file fldcat.tbl, block 0],Pinned--------------------
+                   <BEFORE>                   
+Free list:7,6,5,4,3,2,
+
+Hash table:
+Block: -1527684667 Buffer id is 1
+Block: 1806850661 Buffer id is 0
+
+Buffers:
+(0),lastAccessTime: 1443291103839,[file tblcat.tbl, block 0],NotPinned
+(1),lastAccessTime: 1443291103855,[file fldcat.tbl, block 0],Pinned
+(2),lastAccessTime: 1443291103839,[],NotPinned
+(3),lastAccessTime: 1443291103839,[],NotPinned
+(4),lastAccessTime: 1443291103839,[],NotPinned
+(5),lastAccessTime: 1443291103839,[],NotPinned
+(6),lastAccessTime: 1443291103839,[],NotPinned
+(7),lastAccessTime: 1443291103839,[],NotPinned
+
+
+                   <AFTER>                   
+Free list:7,6,5,4,3,2,
+
+Hash table:
+Block: -1527684667 Buffer id is 1
+Block: 1806850661 Buffer id is 0
+
+Buffers:
+(0),lastAccessTime: 1443291103839,[file tblcat.tbl, block 0],NotPinned
+(1),lastAccessTime: 1443291103855,[file fldcat.tbl, block 0],NotPinned
+(2),lastAccessTime: 1443291103839,[],NotPinned
+(3),lastAccessTime: 1443291103839,[],NotPinned
+(4),lastAccessTime: 1443291103839,[],NotPinned
+(5),lastAccessTime: 1443291103839,[],NotPinned
+(6),lastAccessTime: 1443291103839,[],NotPinned
+(7),lastAccessTime: 1443291103839,[],NotPinned
+
+
+-------------------Pin block: [file fldcat.tbl, block 0]--------------------
+                   <BEFORE>                   
+Free list:7,6,5,4,3,2,
+
+Hash table:
+Block: -1527684667 Buffer id is 1
+Block: 1806850661 Buffer id is 0
+
+Buffers:
+(0),lastAccessTime: 1443291103839,[file tblcat.tbl, block 0],NotPinned
+(1),lastAccessTime: 1443291103855,[file fldcat.tbl, block 0],NotPinned
+(2),lastAccessTime: 1443291103839,[],NotPinned
+(3),lastAccessTime: 1443291103839,[],NotPinned
+(4),lastAccessTime: 1443291103839,[],NotPinned
+(5),lastAccessTime: 1443291103839,[],NotPinned
+(6),lastAccessTime: 1443291103839,[],NotPinned
+(7),lastAccessTime: 1443291103839,[],NotPinned
+
+
+                   <AFTER>                   
+Free list:7,6,5,4,3,2,
+
+Hash table:
+Block: -1527684667 Buffer id is 1
+Block: 1806850661 Buffer id is 0
+
+Buffers:
+(0),lastAccessTime: 1443291103839,[file tblcat.tbl, block 0],NotPinned
+(1),lastAccessTime: 1443291103855,[file fldcat.tbl, block 0],Pinned
+(2),lastAccessTime: 1443291103839,[],NotPinned
+(3),lastAccessTime: 1443291103839,[],NotPinned
+(4),lastAccessTime: 1443291103839,[],NotPinned
+(5),lastAccessTime: 1443291103839,[],NotPinned
+(6),lastAccessTime: 1443291103839,[],NotPinned
+(7),lastAccessTime: 1443291103839,[],NotPinned
+
+
+-------------------Unpin buffer: (1),lastAccessTime: 1443291103855,[file fldcat.tbl, block 0],Pinned--------------------
+                   <BEFORE>                   
+Free list:7,6,5,4,3,2,
+
+Hash table:
+Block: -1527684667 Buffer id is 1
+Block: 1806850661 Buffer id is 0
+
+Buffers:
+(0),lastAccessTime: 1443291103839,[file tblcat.tbl, block 0],NotPinned
+(1),lastAccessTime: 1443291103855,[file fldcat.tbl, block 0],Pinned
+(2),lastAccessTime: 1443291103839,[],NotPinned
+(3),lastAccessTime: 1443291103839,[],NotPinned
+(4),lastAccessTime: 1443291103839,[],NotPinned
+(5),lastAccessTime: 1443291103839,[],NotPinned
+(6),lastAccessTime: 1443291103839,[],NotPinned
+(7),lastAccessTime: 1443291103839,[],NotPinned
+
+
+                   <AFTER>                   
+Free list:7,6,5,4,3,2,
+
+Hash table:
+Block: -1527684667 Buffer id is 1
+Block: 1806850661 Buffer id is 0
+
+Buffers:
+(0),lastAccessTime: 1443291103839,[file tblcat.tbl, block 0],NotPinned
+(1),lastAccessTime: 1443291103855,[file fldcat.tbl, block 0],NotPinned
+(2),lastAccessTime: 1443291103839,[],NotPinned
+(3),lastAccessTime: 1443291103839,[],NotPinned
+(4),lastAccessTime: 1443291103839,[],NotPinned
+(5),lastAccessTime: 1443291103839,[],NotPinned
+(6),lastAccessTime: 1443291103839,[],NotPinned
+(7),lastAccessTime: 1443291103839,[],NotPinned
+
+
+-------------------Pin block: [file tblcat.tbl, block 0]--------------------
+                   <BEFORE>                   
+Free list:7,6,5,4,3,2,
+
+Hash table:
+Block: -1527684667 Buffer id is 1
+Block: 1806850661 Buffer id is 0
+
+Buffers:
+(0),lastAccessTime: 1443291103839,[file tblcat.tbl, block 0],NotPinned
+(1),lastAccessTime: 1443291103855,[file fldcat.tbl, block 0],NotPinned
+(2),lastAccessTime: 1443291103839,[],NotPinned
+(3),lastAccessTime: 1443291103839,[],NotPinned
+(4),lastAccessTime: 1443291103839,[],NotPinned
+(5),lastAccessTime: 1443291103839,[],NotPinned
+(6),lastAccessTime: 1443291103839,[],NotPinned
+(7),lastAccessTime: 1443291103839,[],NotPinned
+
+
+                   <AFTER>                   
+Free list:7,6,5,4,3,2,
+
+Hash table:
+Block: -1527684667 Buffer id is 1
+Block: 1806850661 Buffer id is 0
+
+Buffers:
+(0),lastAccessTime: 1443291103855,[file tblcat.tbl, block 0],Pinned
+(1),lastAccessTime: 1443291103855,[file fldcat.tbl, block 0],NotPinned
+(2),lastAccessTime: 1443291103839,[],NotPinned
+(3),lastAccessTime: 1443291103839,[],NotPinned
+(4),lastAccessTime: 1443291103839,[],NotPinned
+(5),lastAccessTime: 1443291103839,[],NotPinned
+(6),lastAccessTime: 1443291103839,[],NotPinned
+(7),lastAccessTime: 1443291103839,[],NotPinned
+
+
+-------------------Unpin buffer: (0),lastAccessTime: 1443291103855,[file tblcat.tbl, block 0],Pinned--------------------
+                   <BEFORE>                   
+Free list:7,6,5,4,3,2,
+
+Hash table:
+Block: -1527684667 Buffer id is 1
+Block: 1806850661 Buffer id is 0
+
+Buffers:
+(0),lastAccessTime: 1443291103855,[file tblcat.tbl, block 0],Pinned
+(1),lastAccessTime: 1443291103855,[file fldcat.tbl, block 0],NotPinned
+(2),lastAccessTime: 1443291103839,[],NotPinned
+(3),lastAccessTime: 1443291103839,[],NotPinned
+(4),lastAccessTime: 1443291103839,[],NotPinned
+(5),lastAccessTime: 1443291103839,[],NotPinned
+(6),lastAccessTime: 1443291103839,[],NotPinned
+(7),lastAccessTime: 1443291103839,[],NotPinned
+
+
+                   <AFTER>                   
+Free list:7,6,5,4,3,2,
+
+Hash table:
+Block: -1527684667 Buffer id is 1
+Block: 1806850661 Buffer id is 0
+
+Buffers:
+(0),lastAccessTime: 1443291103855,[file tblcat.tbl, block 0],NotPinned
+(1),lastAccessTime: 1443291103855,[file fldcat.tbl, block 0],NotPinned
+(2),lastAccessTime: 1443291103839,[],NotPinned
+(3),lastAccessTime: 1443291103839,[],NotPinned
+(4),lastAccessTime: 1443291103839,[],NotPinned
+(5),lastAccessTime: 1443291103839,[],NotPinned
+(6),lastAccessTime: 1443291103839,[],NotPinned
+(7),lastAccessTime: 1443291103839,[],NotPinned
+
+
+-------------------Pin block: [file tblcat.tbl, block 0]--------------------
+                   <BEFORE>                   
+Free list:7,6,5,4,3,2,
+
+Hash table:
+Block: -1527684667 Buffer id is 1
+Block: 1806850661 Buffer id is 0
+
+Buffers:
+(0),lastAccessTime: 1443291103855,[file tblcat.tbl, block 0],NotPinned
+(1),lastAccessTime: 1443291103855,[file fldcat.tbl, block 0],NotPinned
+(2),lastAccessTime: 1443291103839,[],NotPinned
+(3),lastAccessTime: 1443291103839,[],NotPinned
+(4),lastAccessTime: 1443291103839,[],NotPinned
+(5),lastAccessTime: 1443291103839,[],NotPinned
+(6),lastAccessTime: 1443291103839,[],NotPinned
+(7),lastAccessTime: 1443291103839,[],NotPinned
+
+
+                   <AFTER>                   
+Free list:7,6,5,4,3,2,
+
+Hash table:
+Block: -1527684667 Buffer id is 1
+Block: 1806850661 Buffer id is 0
+
+Buffers:
+(0),lastAccessTime: 1443291103855,[file tblcat.tbl, block 0],Pinned
+(1),lastAccessTime: 1443291103855,[file fldcat.tbl, block 0],NotPinned
+(2),lastAccessTime: 1443291103839,[],NotPinned
+(3),lastAccessTime: 1443291103839,[],NotPinned
+(4),lastAccessTime: 1443291103839,[],NotPinned
+(5),lastAccessTime: 1443291103839,[],NotPinned
+(6),lastAccessTime: 1443291103839,[],NotPinned
+(7),lastAccessTime: 1443291103839,[],NotPinned
+
+
+-------------------Unpin buffer: (0),lastAccessTime: 1443291103855,[file tblcat.tbl, block 0],Pinned--------------------
+                   <BEFORE>                   
+Free list:7,6,5,4,3,2,
+
+Hash table:
+Block: -1527684667 Buffer id is 1
+Block: 1806850661 Buffer id is 0
+
+Buffers:
+(0),lastAccessTime: 1443291103855,[file tblcat.tbl, block 0],Pinned
+(1),lastAccessTime: 1443291103855,[file fldcat.tbl, block 0],NotPinned
+(2),lastAccessTime: 1443291103839,[],NotPinned
+(3),lastAccessTime: 1443291103839,[],NotPinned
+(4),lastAccessTime: 1443291103839,[],NotPinned
+(5),lastAccessTime: 1443291103839,[],NotPinned
+(6),lastAccessTime: 1443291103839,[],NotPinned
+(7),lastAccessTime: 1443291103839,[],NotPinned
+
+
+                   <AFTER>                   
+Free list:7,6,5,4,3,2,
+
+Hash table:
+Block: -1527684667 Buffer id is 1
+Block: 1806850661 Buffer id is 0
+
+Buffers:
+(0),lastAccessTime: 1443291103855,[file tblcat.tbl, block 0],NotPinned
+(1),lastAccessTime: 1443291103855,[file fldcat.tbl, block 0],NotPinned
+(2),lastAccessTime: 1443291103839,[],NotPinned
+(3),lastAccessTime: 1443291103839,[],NotPinned
+(4),lastAccessTime: 1443291103839,[],NotPinned
+(5),lastAccessTime: 1443291103839,[],NotPinned
+(6),lastAccessTime: 1443291103839,[],NotPinned
+(7),lastAccessTime: 1443291103839,[],NotPinned
+
+
+-------------------Pin block: [file fldcat.tbl, block 0]--------------------
+                   <BEFORE>                   
+Free list:7,6,5,4,3,2,
+
+Hash table:
+Block: -1527684667 Buffer id is 1
+Block: 1806850661 Buffer id is 0
+
+Buffers:
+(0),lastAccessTime: 1443291103855,[file tblcat.tbl, block 0],NotPinned
+(1),lastAccessTime: 1443291103855,[file fldcat.tbl, block 0],NotPinned
+(2),lastAccessTime: 1443291103839,[],NotPinned
+(3),lastAccessTime: 1443291103839,[],NotPinned
+(4),lastAccessTime: 1443291103839,[],NotPinned
+(5),lastAccessTime: 1443291103839,[],NotPinned
+(6),lastAccessTime: 1443291103839,[],NotPinned
+(7),lastAccessTime: 1443291103839,[],NotPinned
+
+
+                   <AFTER>                   
+Free list:7,6,5,4,3,2,
+
+Hash table:
+Block: -1527684667 Buffer id is 1
+Block: 1806850661 Buffer id is 0
+
+Buffers:
+(0),lastAccessTime: 1443291103855,[file tblcat.tbl, block 0],NotPinned
+(1),lastAccessTime: 1443291103855,[file fldcat.tbl, block 0],Pinned
+(2),lastAccessTime: 1443291103839,[],NotPinned
+(3),lastAccessTime: 1443291103839,[],NotPinned
+(4),lastAccessTime: 1443291103839,[],NotPinned
+(5),lastAccessTime: 1443291103839,[],NotPinned
+(6),lastAccessTime: 1443291103839,[],NotPinned
+(7),lastAccessTime: 1443291103839,[],NotPinned
+
+
+-------------------Unpin buffer: (1),lastAccessTime: 1443291103855,[file fldcat.tbl, block 0],Pinned--------------------
+                   <BEFORE>                   
+Free list:7,6,5,4,3,2,
+
+Hash table:
+Block: -1527684667 Buffer id is 1
+Block: 1806850661 Buffer id is 0
+
+Buffers:
+(0),lastAccessTime: 1443291103855,[file tblcat.tbl, block 0],NotPinned
+(1),lastAccessTime: 1443291103855,[file fldcat.tbl, block 0],Pinned
+(2),lastAccessTime: 1443291103839,[],NotPinned
+(3),lastAccessTime: 1443291103839,[],NotPinned
+(4),lastAccessTime: 1443291103839,[],NotPinned
+(5),lastAccessTime: 1443291103839,[],NotPinned
+(6),lastAccessTime: 1443291103839,[],NotPinned
+(7),lastAccessTime: 1443291103839,[],NotPinned
+
+
+                   <AFTER>                   
+Free list:7,6,5,4,3,2,
+
+Hash table:
+Block: -1527684667 Buffer id is 1
+Block: 1806850661 Buffer id is 0
+
+Buffers:
+(0),lastAccessTime: 1443291103855,[file tblcat.tbl, block 0],NotPinned
+(1),lastAccessTime: 1443291103855,[file fldcat.tbl, block 0],NotPinned
+(2),lastAccessTime: 1443291103839,[],NotPinned
+(3),lastAccessTime: 1443291103839,[],NotPinned
+(4),lastAccessTime: 1443291103839,[],NotPinned
+(5),lastAccessTime: 1443291103839,[],NotPinned
+(6),lastAccessTime: 1443291103839,[],NotPinned
+(7),lastAccessTime: 1443291103839,[],NotPinned
+
+
+transaction 1 committed
+database server ready
+******************************************************
+******************************************************
